@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/basicReduxapp/static/js/main.ac079edc.chunk.js",
+    "main.js.map": "/basicReduxapp/static/js/main.ac079edc.chunk.js.map",
+    "runtime-main.js": "/basicReduxapp/static/js/runtime-main.22e86029.js",
+    "runtime-main.js.map": "/basicReduxapp/static/js/runtime-main.22e86029.js.map",
+    "static/js/2.b841b6e0.chunk.js": "/basicReduxapp/static/js/2.b841b6e0.chunk.js",
+    "static/js/2.b841b6e0.chunk.js.map": "/basicReduxapp/static/js/2.b841b6e0.chunk.js.map",
+    "index.html": "/basicReduxapp/index.html",
+    "precache-manifest.79643aa2f030db7ecbca756d17e99768.js": "/basicReduxapp/precache-manifest.79643aa2f030db7ecbca756d17e99768.js",
+    "service-worker.js": "/basicReduxapp/service-worker.js"
+  }
+}
